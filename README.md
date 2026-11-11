@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/in/filopater-emad">
+<a href="https://www.linkedin.com/in/filopater-emad-1a8a95312">
   <img src="https://img.shields.io/badge/LinkedIn-Filopater%20Emad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -47,14 +47,6 @@ My work spans **computer vision, NLP, RAG, agentic AI, time-series forecasting, 
 - Designed **proactive network mitigation** and an **AI-powered Root Cause Analysis (RCA) agent** to accelerate incident resolution and prevent recurring network issues.
 
 **Tools:** GenAI, Agentic AI, RAN, Time Series, Fault Detection
-
-### 🚁 Drone Autonomous Vision System — ICMTC Military Technical Competition
-
-**Mar 2026 – Present**
-
-- Built a **real-time computer vision system** for drone object detection and tracking.
-- Deployed an optimized deep learning model on **Raspberry Pi** for embedded AI inference.
-- Designed a **multi-threaded pipeline** for efficient real-time performance.
 
 ---
 
